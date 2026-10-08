@@ -1,1 +1,1 @@
-
+The intended users of the code/data of this repo are students learning about ethics relating to computer science and machine learning. Consequences of this repo not being secure include the risk of exposing sensitive or private data. To secure this repo, I've uploaded a ruleset for pull requests.
